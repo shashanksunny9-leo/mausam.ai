@@ -1,4 +1,4 @@
-# WanderWeather — Global Weather & Travel
+# mausum.ai — Global Weather & Travel
 
 A responsive weather-and-travel web app. Search cities worldwide to see current conditions, daily and weekly forecasts, a monthly planning overview, weather-based packing tips, tourist attractions, a city landmark backdrop, and links to compare flights and hotels.
 
